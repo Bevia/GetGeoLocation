@@ -1,4 +1,4 @@
-# Tracking Geo-Location App
+# Geo-Locator App
 Android dynamic geo_location tracking App.
 
       dependencies {
