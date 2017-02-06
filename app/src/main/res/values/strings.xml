@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GetAccurateLocation</string>
+    <string name="app_name">Geo-Locator</string>
     <string name="register_location_service">Start Location Service</string>
     <string name="deregister_location_service">Stop Location Service</string>
     <string name="title">Your Location Display!</string>

@@ -5,40 +5,33 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="142971031150278"
+    timestamp="143299309573205"
     token="8322976453181696450"
-    verifier="COMPATIBLE" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="81" />
+        duration="0" />
     <task
         name="instant-run-dex"
-        duration="426" />
+        duration="0" />
     <task
         name="instant-run-transform"
-        duration="24" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
-        location="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/reload-dex/debug/classes.dex"
-        type="RELOAD_DEX" />
+        location="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="142825952986469"
+        timestamp="143299309573205"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="142971031150278"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/reload-dex/debug/classes.dex"
-            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
