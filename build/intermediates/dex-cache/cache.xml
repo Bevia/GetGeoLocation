@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c4581a11b15e584ff81977f630ac8500bb53d01c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_7e6ef4b2a085cb872d406db3548eee45e7ba3864/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8c2e0291855a9d3c4bf1803ddd40d66366850ab">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e6c0b70bb9c6796b3f5feb1c6923c23ea4d22160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7fe5c343354fe042fc1c8b3a9c6b459b08d6f54">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c904dfba1ffb6cba4af10e9396defef87fed875e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_a897421b40d536aa010b94d540fc4cba76c6052c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_236a1a723d9f6e2a2ede04559a993653bd05f6b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.5.87_8de5d29c4e5f5739516a51b88f4a0910106b5c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_09ed4d262a8ec26871d8b74e5bcf877714643123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vbevia/AndroidStudioProjects/0 0 0 0 MY CODE - ALL Excellent/GetGeoLocation/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_0804b566be62863832343b3157b0687c0b00ecb6/classes.dex" />
+    </item>
+
+</items>
